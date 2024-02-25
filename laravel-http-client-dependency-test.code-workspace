@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {},
+	"extensions": {
+		"recommendations": [
+			"bmewburn.vscode-intelephense-client",
+			"shufo.vscode-blade-formatter",
+			"onecentlin.laravel-blade"
+		]
+	}
+}
